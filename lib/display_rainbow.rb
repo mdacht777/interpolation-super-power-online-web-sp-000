@@ -6,5 +6,5 @@ def display_rainbow(colors)
   print "G: green, "
   print "B: blue, "
   print "I: indigo, "
-  print "V: violet"
+  print "V: violet\n"
 end
