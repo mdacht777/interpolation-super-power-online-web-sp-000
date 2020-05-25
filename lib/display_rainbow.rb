@@ -1,10 +1,10 @@
 # Write your #display_rainbow method here
 def display_rainbow(colors)
-  puts "R: red, "
-  puts "O: orange, "
-  puts "Y: yellow, "
-  puts "G: green, "
-  puts "B: blue, "
-  puts "I: indigo, "
-  puts "V: violet\n"
+  print "R: red, "
+  print "O: orange, "
+  print "Y: yellow, "
+  print "G: green, "
+  print "B: blue, "
+  print "I: indigo, "
+  print "V: violet"
 end
