@@ -6,5 +6,5 @@ def display_rainbow(colors)
   puts "G: green, "
   puts "B: blue, "
   puts "I: indigo, "
-  puts "V: violet "
+  puts "V: violet\n"
 end
